@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7570c22-8d9e-4bb5-b576-df52589bfe5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ProjectId" id="1ZVUi5XP28DoGQ27YF1DSmuPcj2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@18a5dc42" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1563" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584926739915">
+      <screen x="1280" y="23" width="1366" height="698" />
+    </state>
+    <state x="1563" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777/1280.23.1366.698@1280.23.1366.698" timestamp="1584926739915" />
+    <state width="442" height="171" key="GridCell.Tab.0.bottom" timestamp="1584929438922">
+      <screen x="1280" y="23" width="1366" height="745" />
+    </state>
+    <state width="442" height="171" key="GridCell.Tab.0.bottom/0.23.1280.732/1280.23.1366.745@1280.23.1366.745" timestamp="1584929438922" />
+    <state width="442" height="171" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1366.698@1280.23.1366.698" timestamp="1584926790477" />
+    <state width="442" height="171" key="GridCell.Tab.0.center" timestamp="1584929438918">
+      <screen x="1280" y="23" width="1366" height="745" />
+    </state>
+    <state width="442" height="171" key="GridCell.Tab.0.center/0.23.1280.732/1280.23.1366.745@1280.23.1366.745" timestamp="1584929438918" />
+    <state width="442" height="171" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1366.698@1280.23.1366.698" timestamp="1584926790476" />
+    <state width="442" height="171" key="GridCell.Tab.0.left" timestamp="1584929438917">
+      <screen x="1280" y="23" width="1366" height="745" />
+    </state>
+    <state width="442" height="171" key="GridCell.Tab.0.left/0.23.1280.732/1280.23.1366.745@1280.23.1366.745" timestamp="1584929438917" />
+    <state width="442" height="171" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1366.698@1280.23.1366.698" timestamp="1584926790475" />
+    <state width="442" height="171" key="GridCell.Tab.0.right" timestamp="1584929438921">
+      <screen x="1280" y="23" width="1366" height="745" />
+    </state>
+    <state width="442" height="171" key="GridCell.Tab.0.right/0.23.1280.732/1280.23.1366.745@1280.23.1366.745" timestamp="1584929438921" />
+    <state width="442" height="171" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1366.698@1280.23.1366.698" timestamp="1584926790477" />
+  </component>
+</project>
